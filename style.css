@@ -1,0 +1,45 @@
+body {
+    background-image: url("images (1).jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+h1 {
+    color: rgb(252, 186, 18);
+    text-align: center;
+    
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+#msg-el {
+    font-style: italic;
+}
+
+button{
+  
+    border: none;
+    width: 200px;
+    padding: 10px;
+    color:  #016f32;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+#start-btn{
+    background-color: rgb(252, 186, 18);
+}
+
+#new-btn{
+    background-color:rgb(252, 186, 18) ;
+}
